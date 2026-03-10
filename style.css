@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: cyan;
+}
+
+p {
+    font-size: 30px;
+}
